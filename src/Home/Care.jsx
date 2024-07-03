@@ -6,12 +6,12 @@ const Care = () => {
 
 <div className="md:absolute bottom-14 top-96 inset-0 flex justify-center items-center">
                 <div className="max-w-[33.25rem] text-center">
-                    <h2 className="text-[2rem] md:text-[2.5rem] lg:text-[3rem] font-semibold text-[#020043] leading-tight">
+                    <h2 className="text-[2rem] md:text-[2.5rem] lg:text-[3rem] font-semibold px-2 text-[#020043] leading-tight">
                         Comprehensive Care for Every Patient
                     </h2>
                 </div>
             </div>
-            <div className=" grid relative grid-cols-1 gap-6 md:grid-cols-2 lg:grid-cols-3  xl:grid-cols-4 2xl:grid-cols-5 mx-auto place-items-center xl:place-items-end py-2 px-12">
+            <div className=" grid relative grid-cols-1 gap-6 md:grid-cols-3 lg:grid-cols-3  xl:grid-cols-4 2xl:grid-cols-5 mx-auto place-items-center xl:place-items-end py-2 px-12">
                 <div className="w-[13.5rem] h-[19.5rem] p-[1.25rem] bg-white rounded-3xl border">
                     <h2 className="text-[2.5rem] font-semibold leading-9 text-[#020043]">90%</h2>
                     <p className="text-[0.875rem] mt-2 font-normal text-[#020043]">Patient satisfaction <br /> rate, reflecting our <br /> commitment.</p>
