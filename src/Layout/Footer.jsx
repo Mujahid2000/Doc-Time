@@ -21,14 +21,14 @@ const Footer = () => {
                 <div className="w-full px-10 lg:w-1/4 md:w-1/2">
                     <h2 className="mb-3 text-sm font-medium tracking-widest text-white uppercase title-font">Home</h2>
                     <nav className="mb-10 list-none">
-                        <li className="mt-3">
+                        <li className="mt-5">
                             <a className="text-white cursor-pointer hover:text-white">About us                            </a>
                         </li>
-                        <li className="mt-3">
+                        <li className="mt-5">
                             <a className="text-white cursor-pointer hover:text-white">Success Page
                             </a>
                         </li>
-                        <li className="mt-3">
+                        <li className="mt-5">
                             <a className="text-white cursor-pointer hover:text-white">Terms and condition</a>
                         </li>
                     </nav>
